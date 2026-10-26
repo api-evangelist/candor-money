@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Candor Finance is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://candor.money
+Candor Finance provides an AI‑driven personal finance platform that helps users manage spending, bills, investments, and long‑term money goals. The service integrates with real accounts to generate weekly financial plans, offers budgeting tools, and answers hard‑money questions through an AI agent that can suggest actions like saving for a home or optimizing expenses.
+
+**Areas:** Company · Finance · AI · PersonalFinance · Budgeting
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://candor.money)
+- [Getting started](https://candor.money/monarch-alternative)
+- [API reference](https://candor.money/developers)
+- [Sign up](https://app.candor.money/signup)
+- [Support](https://candor.money/support)
+- [Security](https://candor.money/security)
+- [Trust centre](https://candor.money/trust)
+- [Terms of service](https://candor.money/terms)
+- [Privacy policy](https://candor.money/privacy)
+- [GitHub](https://github.com/candorsystems)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/candor-money/](https://apis.io/providers/candor-money/).
